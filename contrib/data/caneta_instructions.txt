@@ -1,0 +1,15 @@
+- Code: 2345678
+- Steps:
+    1. Verificar se não existem arestas no produto;
+    2. Verificar se a parte superior contém uma borrachinha touch;
+    3. Verificar se a presilha de fixação está presente;
+    4. Confirmar se é possível abrir a ponta da caneta;
+    5. Testar se é possível registrar algo utilizando a caneta;
+    6. Garantir que a linha formada ao escrever não tenha falhas.
+- Keywords:
+    1. arestas;
+    2. borrachinha touch;
+    3. presilha de fixação;
+    4. ponta da caneta;
+    5. escrever;
+    6. linha sem falhas.
